@@ -306,11 +306,8 @@ hr {
     grid-template-columns: 60px 1fr 80px 40px;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 80px;
-    margin-top: 10px;
-
-    border: 1px solid rgba(128, 128, 128, 0.15);
-
+    padding: 5px;
+    margin-top: 2px;
     gap: 10px;
 }
 
@@ -419,7 +416,11 @@ hr {
 
 
 
-
+.add-btn.added{
+    
+    background-color: #ff4d4d;
+    color: white;
+}
 
 
 
