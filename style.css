@@ -394,7 +394,7 @@ hr {
 
 
 .footer{
-    background-color: aliceblue;
+    background-color: rgb(167, 167, 168);
     display: flex;
     justify-content: space-around;
     align-items: center;
